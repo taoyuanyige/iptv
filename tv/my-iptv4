@@ -72,6 +72,12 @@ CGTN西语SD,http://171.213.153.148:4000/udp/239.94.2.237:5140
 CGTN法语SD,http://171.213.153.148:4000/udp/239.94.2.238:5140
 梨园频道SD,http://171.213.153.148:4000/udp/239.94.2.227:5140
 
+港澳台频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
 
 卫视频道,#genre#
 重庆卫视,http://171.213.153.148:4000/udp/239.94.0.82:5140
